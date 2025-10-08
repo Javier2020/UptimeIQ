@@ -1,4 +1,4 @@
-# 🌐 Is It Down? – Flutter Web App
+# 🌐 UptimeIQ – Flutter Web App
 
 A simple, fast, and responsive Flutter Web app that checks if a website is down for everyone or just you. Includes AdSense integration, legal pages, and an FAQ section to help with Google AdSense approval.
 
@@ -102,4 +102,5 @@ Would you like me to:
 
 Package this into a starter Flutter Web layout?
 Check domain availability for uptimeiq.io, .app, or .ai?
+
 Generate social media branding assets (e.g., favicon, banner, app icon)?
