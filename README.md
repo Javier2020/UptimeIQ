@@ -19,7 +19,7 @@ A simple, fast, and responsive Flutter Web app that checks if a website is down 
 
 ## 🧱 Folder Structure
 
-is-it-down-clone-flutter/ ├── lib/ │ ├── main.dart │ ├── widgets/adsense_widget.dart │ └── sections/faq_section.dart ├── web/ │ ├── index.html │ ├── adview.html │ ├── privacy_policy.html │ └── terms_and_conditions.html ├── .github/workflows/firebase-hosting.yml ├── firebase.json ├── pubspec.yaml └── README.md
+UptimeIQ/ ├── lib/ │ ├── main.dart │ ├── widgets/adsense_widget.dart │ └── sections/faq_section.dart ├── web/ │ ├── index.html │ ├── adview.html │ ├── privacy_policy.html │ └── terms_and_conditions.html ├── .github/workflows/firebase-hosting.yml ├── firebase.json ├── pubspec.yaml └── README.md
 
 3. Run Locally
 
@@ -104,3 +104,4 @@ Package this into a starter Flutter Web layout?
 Check domain availability for uptimeiq.io, .app, or .ai?
 
 Generate social media branding assets (e.g., favicon, banner, app icon)?
+
